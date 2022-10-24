@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -35,6 +36,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -45,11 +47,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_4\opdrachten" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_4\opdrachten\opdracht_2" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_4\opdrachten\opdracht_1" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_3\opdrachten\opdrachten_1_2_3" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_3\opdrachten" />
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_4" />
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_5\opdrachten" />
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\images\backgrounds" />
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment" />
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\other" />
     </key>
   </component>
   <component name="RunManager">
@@ -79,7 +81,14 @@
       <workItem from="1665479673585" duration="526000" />
       <workItem from="1665576269338" duration="6801000" />
       <workItem from="1665822648756" duration="13306000" />
-      <workItem from="1665907919964" duration="2788000" />
+      <workItem from="1665907919964" duration="3390000" />
+      <workItem from="1666168886665" duration="451000" />
+      <workItem from="1666184396590" duration="138000" />
+      <workItem from="1666184609992" duration="3043000" />
+      <workItem from="1666195254634" duration="171000" />
+      <workItem from="1666514312928" duration="341000" />
+      <workItem from="1666514903888" duration="1415000" />
+      <workItem from="1666617813934" duration="11808000" />
     </task>
     <servers />
   </component>
