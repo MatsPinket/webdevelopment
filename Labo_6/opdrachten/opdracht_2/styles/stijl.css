@@ -1,12 +1,3 @@
-li {
-    display:inline-block;
-    width:150px;
-}
-
-li > a {
-    color:red;
-}
-
 .home {
     font-size: 0.9em;
     font-family: Calibri;

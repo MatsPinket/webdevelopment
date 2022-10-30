@@ -17,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -51,11 +51,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_6" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\lenn" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\lenn\style" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_4" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_5\opdrachten" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\images\backgrounds" />
     </key>
   </component>
   <component name="RunManager">
@@ -100,7 +100,8 @@
       <workItem from="1666808877982" duration="8783000" />
       <workItem from="1666865242578" duration="1157000" />
       <workItem from="1666940474910" duration="31000" />
-      <workItem from="1667122524429" duration="4200000" />
+      <workItem from="1667122524429" duration="12402000" />
+      <workItem from="1667135714394" duration="4297000" />
     </task>
     <servers />
   </component>
