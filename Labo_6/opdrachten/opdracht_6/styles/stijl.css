@@ -1,0 +1,17 @@
+.checklist {
+    list-style: none;
+    background-image: url("../../../../images/bijlages/Screenshot_2.png");
+    background-size: 18px;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    background-position: left;
+}
+
+.checked {
+    list-style: none;
+    background-image: url("../../../../images/bijlages/Screenshot_1.png");
+    background-size: 18px;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    background-position: left;
+}

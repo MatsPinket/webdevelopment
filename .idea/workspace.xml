@@ -10,12 +10,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../webdevelopment\exportToHTML" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -48,11 +51,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\lenn" />
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\lenn\style" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_4" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_5\opdrachten" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\images\backgrounds" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\other" />
     </key>
   </component>
   <component name="RunManager">
@@ -92,7 +95,12 @@
       <workItem from="1666617813934" duration="12094000" />
       <workItem from="1666686221325" duration="40000" />
       <workItem from="1666686328529" duration="620000" />
-      <workItem from="1666773041898" duration="9023000" />
+      <workItem from="1666773041898" duration="16237000" />
+      <workItem from="1666808238257" duration="176000" />
+      <workItem from="1666808877982" duration="8783000" />
+      <workItem from="1666865242578" duration="1157000" />
+      <workItem from="1666940474910" duration="31000" />
+      <workItem from="1667122524429" duration="4200000" />
     </task>
     <servers />
   </component>
