@@ -1,0 +1,46 @@
+
+/*tabel*/
+
+.datagrid table {
+    border-collapse: collapse;
+    text-align: center;
+    width: 10%;
+}
+
+.datagrid table thead th {
+    background-color: rgb(170,170,200);
+    font-size: 15px;
+    font-weight: bold;
+}
+
+table {
+    border: solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border-style: dotted;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+.dag {
+    background-color: rgb(35,37,70)!important;
+    color: rgb(200,190,240);
+}
+
+.weekend {
+    background-color: rgba(47, 47, 47, 0.21) !important;
+}
+
+td:last-child {
+    background-color: rgb(255, 220, 220)
+}
+
+td:first-child {
+    background-color: rgb(255, 220, 220)
+}
+
+.feestdag {
+    background-color: rgb(250,120,120);
+}
