@@ -1,0 +1,65 @@
+.home {
+    font-size: 0.9em;
+    font-family: sans-serif;
+    position: relative;
+    bottom: 0;
+    left: 50%;
+}
+
+body {
+    width: 1200px;
+    margin: auto;
+}
+
+body > section > header {
+    background-image: url("../../../../images/bijlages/header.jpg");
+    padding-bottom: 40px;
+    background-repeat: no-repeat;
+
+}
+
+.banner {
+    font-size: 37px;
+    color: white;
+    font-family: Verdana, sans-serif;
+    padding-left: 10px;
+}
+
+body > section > nav {
+    background-color: #3D3D3DFF;
+    padding-bottom: 6px;
+    padding-top: 4px;
+    padding-left: 5px;
+}
+
+article {
+    background-color: #ebebf1;
+    padding-left: 5px;
+    margin-top: -26px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+body > section > nav > a {
+    color: #85fd93;
+    text-decoration-line: none;
+}
+
+h1 {
+    font-size: 25px;
+    color: #494949;
+    text-decoration-line: underline;
+
+}
+
+p {
+    font-size: 13px;
+}
+
+footer {
+    font-size: 13px;
+    padding-bottom: 3px;
+}
+body > section > footer {
+    padding-top: 7px;
+}

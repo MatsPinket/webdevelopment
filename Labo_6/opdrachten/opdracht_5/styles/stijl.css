@@ -1,15 +1,7 @@
-p > a {
+h1 > a {
     background-image: url("../../../../images/bijlages/Zelda-Link-PNG-File.png");
     background-size: 20%;
     background-repeat: no-repeat;
     padding-left: 35px;
     padding-bottom: 20px;
-}
-
-.home {
-    font-size: 0.9em;
-    font-family: Calibri;
-    position: absolute;
-    bottom: 0;
-    left: 50%;
 }

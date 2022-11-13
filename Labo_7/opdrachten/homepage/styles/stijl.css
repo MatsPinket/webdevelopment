@@ -1,0 +1,132 @@
+.home {
+    font-size: 0.9em;
+    font-family: sans-serif;
+    bottom: 0;
+}
+
+body {
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
+
+th {
+    width: 200px;
+}
+
+.me {
+    width: 10%;
+}
+
+.fitness {
+    width: 15%;
+}
+
+.art {
+    width: 15%;
+}
+
+.bos {
+    width: 25%;
+}
+
+.band {
+    width: 25%;
+}
+
+.film {
+    width: 25%;
+}
+
+iframe {
+    width: 400px;
+    height: 234px;
+}
+
+ table, th, td {
+     border: solid black;
+     border-collapse: collapse;
+ }
+
+.banner {
+    background-image: url("../../../../images/bijlages/wallpaper 1.png");
+    background-size: 1000px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(56, 11, 5, 0.8);
+    color: white;
+    font-size: 30px;
+}
+
+.info {
+    background-color: rgba(255, 25, 0, 0.47);
+}
+
+.hobbies {
+    background-color: rgba(255, 115, 0, 0.63);
+}
+
+.likes {
+    background-color: rgba(255, 165, 0, 0.65);
+}
+
+.tabel {
+    background-color: rgba(131, 70, 14, 0.63);
+}
+
+.table {
+    padding-left: 4%;
+}
+
+.vrienden {
+    background-color: rgba(85, 107, 47, 0.53);
+    padding-right: 4%;
+}
+
+h1 {
+    text-decoration-line: underline;
+    color: white;
+}
+
+a {
+    text-decoration-line: none;
+    color: black;
+}
+
+/*tabel*/
+
+.datagrid table {
+    border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+    background-color: rgba(31, 40, 13, 0.6);
+}
+
+.datagrid {
+    font: normal 12px/150% Arial, Helvetica, sans-serif;
+    overflow: hidden;
+    border: 10px solid rgba(85, 107, 47, 0.71);
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.datagrid table thead th {
+    background-color: rgba(41, 51, 18, 0.91);
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+}
+
+.white {
+    color: white;
+    background-color: rgba(85, 107, 47, 0.71);
+}
+
+.unknown {
+    background-color: rgba(255, 0, 0, 0.29);
+}

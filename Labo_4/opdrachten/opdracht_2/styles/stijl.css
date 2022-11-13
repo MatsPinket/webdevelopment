@@ -1,7 +1,7 @@
 .home {
     font-size: 0.9em;
-    font-family: Calibri;
-    position: absolute;
+    font-family: sans-serif;
+    position: relative;
     bottom: 0;
     left: 50%;
 }

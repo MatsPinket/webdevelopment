@@ -1,5 +1,5 @@
 body {
-    font-family: Verdana;
+    font-family: Verdana, sans-serif;
     font-size: 1.1em;
     color: darkblue;
 
@@ -13,14 +13,14 @@ h1 {
 }
 
 .link {
-    font-family: Amiri;
+    font-family: Amiri, sans-serif;
     font-size: 1.2em;
 }
 
 .home {
     font-size: 0.9em;
-    font-family: Calibri;
-    position: absolute;
+    font-family: sans-serif;
+    position: relative;
     bottom: 0;
     left: 50%;
 }
