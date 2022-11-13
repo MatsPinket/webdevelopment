@@ -58,12 +58,16 @@
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_4" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="copy_without_prognose_tabel.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_3/homepage/copy_without_prognose_tabel.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_7/opdrachten/opdracht_1/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.copy_without_prognose_tabel.html" />
       </list>
     </recent_temporary>
@@ -104,7 +108,9 @@
       <workItem from="1667135714394" duration="4893000" />
       <workItem from="1667987337403" duration="1794000" />
       <workItem from="1668000210392" duration="6668000" />
-      <workItem from="1668325417817" duration="14246000" />
+      <workItem from="1668325417817" duration="14323000" />
+      <workItem from="1668339994036" duration="71000" />
+      <workItem from="1668340232672" duration="493000" />
     </task>
     <servers />
   </component>
