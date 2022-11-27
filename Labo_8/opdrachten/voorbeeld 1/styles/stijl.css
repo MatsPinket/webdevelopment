@@ -1,0 +1,10 @@
+div {
+	text-align:center;
+}
+
+.area {
+	width:100px;
+	height:100px;
+	background:red;
+	display:inline-block;
+}
