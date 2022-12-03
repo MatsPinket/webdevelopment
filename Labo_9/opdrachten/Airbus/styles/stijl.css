@@ -1,0 +1,130 @@
+body {
+    width: 960px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    background-image: url("../fotos/pagebackground.png");
+    background-position: center;
+    background-repeat: repeat-y;
+    background-color:#e6e6e6;
+}
+ header{
+    background-image: url("../fotos/bgsky3.jpg");
+     height: 200px;
+     text-align: center;
+ }
+
+ header > img {
+     float: right;
+     position: absolute;
+     right: 370px;
+     top: 35px;
+ }
+
+ header > h1 {
+     color: darkblue;
+     font-style: italic;
+     font-size: 300%;
+     font-weight: bold;
+     margin: 0;
+ }
+
+ header > h2 {
+     color: darkblue;
+     font-size: 240%;
+     font-weight: bold;
+ }
+
+ body > section {
+     width: 250px;
+     background-color: #dddddd;
+     border-style: solid;
+     border-color: #999999;
+     border-width: 1px;
+     color: #666666;
+     font-size: 90%;
+     float: right;
+     position: relative;
+ }
+
+ body > section > p {
+     padding-left: 10px;
+     padding-right: 10px;
+ }
+
+ body > section > h3 {
+     color: white;
+     background-color: blue;
+     font-size: 120%;
+     text-align: center;
+     position: relative;
+ }
+
+ main {
+     width: 700px;
+     padding-right: 10px;
+ }
+
+main > section:nth-child(2) {
+    background-color: white;
+    color: black;
+    padding: 0 30px 20px 0;
+    text-align: justify;
+    font-size: 90%;
+}
+
+main > section:first-child {
+    float: left;
+    padding: 0 20px 60px 20px;
+    position: relative;
+}
+
+span {
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.foto {
+    width: 180px;
+    height: 180px;
+    border-style: dashed;
+    border-width: 1px;
+    border-color: #999999;
+    margin: 10px;
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+}
+
+body > main > section:last-child {
+    position: relative;
+    background-color: #999999;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px 10px 10px 10px;
+}
+
+footer {
+    display: flex;
+    background-color: #666666;
+    color: white;
+    line-height: 2em;
+    padding-left: 120px;
+}
+
+footer > section:last-child {
+    padding-left: 120px;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
+
+body > div:last-child {
+    text-align: center;
+    background-color: white;
+    color: black;
+}

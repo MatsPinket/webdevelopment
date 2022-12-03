@@ -52,6 +52,10 @@ span {
     overflow: hidden;
 }
 
+a:hover {
+    color: #EF8354;
+}
+
 a {
     color: #BFC0C0;
     text-decoration: none;
