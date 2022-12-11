@@ -17,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -34,35 +34,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/matsp/OneDrive/Desktop/TIa/web development/GitHub/webdevelopment/Labo_8/opdrachten/voorbeeld 3&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/matsp/OneDrive/Desktop/TIa/web development/GitHub/webdevelopment/Labo_10/homepage/styles",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_10\homepage\styles" />
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_10" />
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_10\Composition A\styles" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_8\opdrachten\voorbeeld 3" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_8\opdrachten" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_10" />
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_10\opdrachten" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_8\opdrachten\Cocktail Bar" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_8\opdrachten\Cocktail Bar\images" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_8\opdrachten\voorbeeld 3\styles" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_8\opdrachten\voorbeeld 3" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_8\opdrachten\voorbeeld 2\stijl" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -122,7 +124,9 @@
       <workItem from="1669209953853" duration="6385000" />
       <workItem from="1669554917300" duration="3247000" />
       <workItem from="1669814321520" duration="6256000" />
-      <workItem from="1670082541728" duration="13599000" />
+      <workItem from="1670082541728" duration="13746000" />
+      <workItem from="1670419895221" duration="4803000" />
+      <workItem from="1670770147753" duration="11090000" />
     </task>
     <servers />
   </component>

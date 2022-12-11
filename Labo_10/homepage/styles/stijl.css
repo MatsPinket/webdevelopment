@@ -1,0 +1,133 @@
+section {
+    border-style: solid;
+    color: #c79117;
+    border-radius: 25px;
+    border-width: 5px;
+    margin: 20px 20px 20px 20px;
+    opacity: 90%;
+}
+
+body {
+    background-image: url("../../../images/bijlages/3eb98f7c50c751579c3fb67af8976e01.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+img {
+    border-style: solid;
+    color: #c79117;
+    border-radius: 25px;
+    border-width: 5px;
+
+}
+
+iframe {
+    border-style: solid;
+    color: #c79117;
+    border-radius: 25px;
+    border-width: 5px;
+
+}
+
+.home {
+    font-size: 0.9em;
+    font-family: sans-serif;
+    bottom: 0;
+    background-color: rgb(22, 24, 35);
+}
+
+body {
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
+
+th {
+    width: 200px;
+}
+
+.me {
+    width: 80%;
+}
+
+.fitness {
+    width: 30%;
+}
+
+.art {
+    width: 30%;
+}
+
+.bos {
+    width: 50%;
+}
+
+.band {
+    width: 40%;
+}
+
+.film {
+    width: 50%;
+}
+
+iframe {
+    width: 40%;
+    height: 232px;
+}
+
+.banner {
+    background-image: url("../../../images/bijlages/andyvi210800169.jpg");
+    background-size: 1150px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(22, 24, 35);
+    font-size: 30px;
+    margin: 20px 0 10px 0;
+}
+
+.info {
+    background-color: rgb(22, 24, 35);
+    margin: 10px 0 20px 10px;
+}
+
+.hobbies{
+    background-color: rgb(22, 24, 35);
+    margin: 10px 10px 10px 0;
+}
+
+.likes {
+    background-color: rgb(22, 24, 35);
+    margin: 10px 10px 20px 0;
+}
+
+
+h1 {
+    text-decoration-line: underline;
+    color: #c79117;
+}
+
+ul {
+    color: #c79117;
+}
+
+a {
+    text-decoration-line: none;
+    color: #c79117;
+}
+
+a:hover {
+    color: white;
+}
+
+section:hover {
+    opacity: 95%;
+}
+
+div {
+    justify-content: center;
+}
