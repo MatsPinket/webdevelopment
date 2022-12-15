@@ -8,7 +8,7 @@ section {
 }
 
 body {
-    background-image: url("../../../images/bijlages/3eb98f7c50c751579c3fb67af8976e01.jpg");
+    background-image: url("../../../../images/bijlages/3eb98f7c50c751579c3fb67af8976e01.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
@@ -81,7 +81,7 @@ iframe {
 }
 
 .banner {
-    background-image: url("../../../images/bijlages/andyvi210800169.jpg");
+    background-image: url("../../../../images/bijlages/andyvi210800169.jpg");
     background-size: 1150px;
     background-repeat: no-repeat;
     background-position: center;
