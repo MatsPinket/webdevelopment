@@ -16,9 +16,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -40,7 +40,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/matsp/OneDrive/Desktop/TIa/web development/GitHub/webdevelopment/Labo_10/homepage/styles&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/matsp/OneDrive/Desktop/school/web development/GitHub/webdevelopment&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -53,18 +53,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\test\styles" />
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\test" />
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\examen\Inhoud-versie1\style" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_10\homepage\styles" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_10" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_10\Composition A\styles" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_8\opdrachten\voorbeeld 3" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_8\opdrachten" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment" />
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\semester 1" />
+      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\test\styles" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_11\opdrachten" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_10\opdrachten" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_10" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_8\opdrachten\Cocktail Bar" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_8\opdrachten\Cocktail Bar\images" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -129,6 +129,18 @@
       <workItem from="1670770147753" duration="11814000" />
       <workItem from="1670839542136" duration="734000" />
       <workItem from="1671022999779" duration="8651000" />
+      <workItem from="1671100446925" duration="238000" />
+      <workItem from="1672412260863" duration="21000" />
+      <workItem from="1672496376167" duration="586000" />
+      <workItem from="1673956642413" duration="637000" />
+      <workItem from="1674021741780" duration="518000" />
+      <workItem from="1674027173147" duration="9050000" />
+      <workItem from="1674551915473" duration="6000" />
+      <workItem from="1675461328101" duration="12628000" />
+      <workItem from="1675504487269" duration="6611000" />
+      <workItem from="1675862238029" duration="582000" />
+      <workItem from="1676199497299" duration="1883000" />
+      <workItem from="1676453394525" duration="715000" />
     </task>
     <servers />
   </component>

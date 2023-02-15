@@ -1,0 +1,95 @@
+body{
+    width: 992px;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 1.2em;
+    background-color: #00d4ef;
+    background-image: url("../images/background.png");
+    background-repeat: repeat-x;
+    margin: 0 auto 0 auto;
+}
+
+header > section {
+    background-color: rgb(193, 156, 214);
+    height: 50px;
+}
+
+header > section > a {
+    color: #ce6700;
+    text-decoration-line: none;
+}
+
+header > section > a:hover{
+    text-decoration-line: underline;
+}
+
+.left {
+    float: left;
+    padding-left: 1em;
+    padding-top: 10px;
+}
+
+.right {
+    float: right;
+    padding-right: 1em;
+    padding-top: 10px;
+}
+
+.code {
+   height: 300px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+main {
+    background-color: white;
+    text-align: center;
+}
+
+aside {
+    background-color: white;
+    float: left;
+    font-size: 0.5em;
+}
+
+ul {
+    text-align: left;
+    list-style: square;
+}
+
+ol {
+    list-style: upper-roman;
+}
+
+aside > h1{
+    font-size: 1.8em;
+}
+
+.titel {
+    font-size: 300%;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-top: 0;
+}
+
+.text {
+    text-align: left;
+    font-size: 1em;
+    padding-left: 10px;
+}
+
+.setcenter {
+    text-align: center;
+}
+
+.kader {
+    background-color: #bd97ff;
+    border-radius: 25px;
+}
+
+
+
+
+
+@media (max-width: 992px) {
+
+}
