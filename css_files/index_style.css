@@ -5,24 +5,15 @@ body {
     background-size: cover;
     text-align: center;
 }
-main a {
-    color: rgb(255, 165, 89);
+
+a {
     text-decoration-line: none;
-    text-shadow: -1px 1px 2px #000,
-    1px 2px 6px #000,
-    1px -1px 0 #000,
-    -1px -1px 0 #000;
+    color: blue;
 }
 
-main a:hover {
+a:hover {
     text-decoration-line: underline;
 
-}
-
-div {
-    background-color: rgba(65, 35, 9, 0.48);
-    margin: -20px 30% 0 30%;
-    padding: 20px 0 100px 0;
 }
 
 h1 {

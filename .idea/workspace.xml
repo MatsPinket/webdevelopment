@@ -17,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -40,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/matsp/OneDrive/Desktop/school/web development/GitHub/webdevelopment/semester 2/Labo 2",
+    "last_opened_file_path": "C:/Users/matsp/OneDrive/Desktop/school/web development/GitHub/webdevelopment/semester 2/Labo 3",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -53,18 +53,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\matsp\OneDrive\Desktop\school\web development\GitHub\webdevelopment\semester 2\Labo 3" />
+      <recent name="C:\Users\matsp\OneDrive\Desktop\school\web development\GitHub\webdevelopment\semester 2" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\school\web development\GitHub\webdevelopment\semester 2\Labo 2" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\test\styles" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\test" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\examen\Inhoud-versie1\style" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_10\homepage\styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matsp\OneDrive\Desktop\school\web development\GitHub\webdevelopment\semester 2\Labo 3" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\school\web development\GitHub\webdevelopment\semester 2\Labo 2\voorbeelden meneer" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\semester 1" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\test\styles" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\TIa\web development\GitHub\webdevelopment\Labo_11\opdrachten" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -143,6 +143,8 @@
       <workItem from="1676453394525" duration="970000" />
       <workItem from="1676454412748" duration="362000" />
       <workItem from="1676979993365" duration="13985000" />
+      <workItem from="1677835580294" duration="546000" />
+      <workItem from="1677925487203" duration="4808000" />
     </task>
     <servers />
   </component>

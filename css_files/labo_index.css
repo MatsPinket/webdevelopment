@@ -53,11 +53,11 @@ span {
 }
 
 a:hover {
-    color: #EF8354;
+    color: white;
 }
 
 a {
-    color: #BFC0C0;
+    color: #EF8354;
     text-decoration: none;
     letter-spacing: 1px;
 }
