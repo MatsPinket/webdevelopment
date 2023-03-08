@@ -1,4 +1,5 @@
 const setup = () => {
+	debugger;
 	let colorDemos=document.getElementsByClassName("colorDemo");
 	let sliders = document.getElementsByClassName("slider");
 
@@ -12,6 +13,7 @@ const setup = () => {
 }
 
 const update = () => {
+	debugger;
 	let sliders = document.getElementsByClassName("slider");
 	let value=sliders[0].value;
 	console.log("de waarde van de slider is momenteel : "+value);

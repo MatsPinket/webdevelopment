@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>formulierElementen</title>
+
+    <link rel="stylesheet" type="text/css" href="styles/index.css">
+</head>
+<body>
+
+<form action="" method="post">
+    <div><label for="fistName"> First name*:</label>
+    <input type="text" name="firstName" required="required" placeholder="Your first name" autofocus/></div>
+
+    <div><label for="lastName"> Last name*:</label>
+    <input type="text" name="lastName" required="required" placeholder="Your last name" /></div>
+
+
+    Which sport do you train?
+    <div><label for="Running"> Running</label><input type="checkbox" name="Running"/></div>
+
+    <div><label for="Swimming"> Swimming</label><input type="checkbox" name="Swimming"/></div>
+
+    <div><label for="Rowing"> Rowing</label><input type="checkbox" name="Rowing"/></div>
+
+    What is your gender?
+    <div><input type="radio" name="male" value=”c" /><label for="male"> Male</label></div>
+
+    <div><input type="radio" name="female" value=”v" /><label for="female"> Female</label></div>
+
+    <div><label for="movie"> Favorite movie:</label>
+        <input type="text" name="movie"/></div>
+
+    <div><label for="quote"> Favorite quote:</label>
+        <input type="text" name="quote" placeholder="Write your favorite quote"/></div>
+
+    <div><label for="password"> Password*:</label>
+        <input type="password" name="password" required="required" size="10" maxlength="10"/></div>
+
+    <div><label for="food"> Favorite food:</label><input list="food" name="food" value="Hamburger"/>
+        <datalist id="food">
+        <option value="Hamburger">
+        <option value="Pizza">
+        <option value="Spaghetti">
+    </datalist></div>
+
+    <div><input type="file" value="Bestand kiezen" /><label for="file"></label></div>
+
+    <div><label for="email">Email adress:</label>
+        <input type="email" name="email" placeholder="Enter your email adress" /></div>
+
+    <div><label for="website">Favorite site:</label>
+        <input type="url" name="website"
+               placeholder="Enter the url of your favorite site" /></div>
+
+    <div><label for="number">Favorite number between 1-10:</label>
+        <input type="number" min ="0" max="10" size="3" />
+    </div>
+
+    <div><label for="range">Favorite number between 11-1000:</label>
+        <input type="range" name="range" min="11" max="1000" /></div>
+
+    <div><label for="birthdate">When were you born?</label>
+        <input type="date" name="birthdate" /></div>
+
+    <div><label for="zip-code">Belgium zip-code reg number*:</label>
+        <input type="text" pattern="[0-9]{4}" title="zip-code" placeholder="9999" required="required"/></div>
+
+    <div><label for="search">Search for something:</label>
+        <input type="search" name="txtSearch" /></div>
+
+    <div><label for="color">Your favorite color?</label>
+        <input type="color" name="color" /></div>
+
+    <div><input type="submit" name="submit" /></div>
+    <br>
+
+</form>
+
+<script type="text/javascript" charset="utf-8" src="scripts/index.js"></script>
+</body>
+</html>

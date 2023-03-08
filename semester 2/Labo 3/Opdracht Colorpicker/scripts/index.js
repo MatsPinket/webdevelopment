@@ -9,7 +9,7 @@ const setup = () => {
         sliders[i].addEventListener("input", update);
     }
 
-    colorDemos[0].style.backgroundColor = 'rgb(' + 100 + ',' + 100 + ',' + 100 + ')';
+    update();
 }
 
 const update = () => {
