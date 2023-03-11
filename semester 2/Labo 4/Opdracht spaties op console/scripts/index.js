@@ -1,4 +1,22 @@
 const setup = () => {
-// deze code wordt pas uitgevoerd als de pagina volledig is ingeladen
+
+    const button = document.getElementById("button")
+    button.addEventListener('click', press)
+
+}
+
+const press = () => {
+
+    let inputveld = document.getElementById("inputveld").value;
+
+
+    let return_tekst = "";
+
+    for (let i = 0; i < inputveld.length; i++) {
+        return_tekst += inputveld.charAt(i) + " ";
+    }
+
+    console.log(return_tekst)
+
 }
 window.addEventListener("load", setup);
