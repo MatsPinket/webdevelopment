@@ -3,12 +3,12 @@ const setup = () => {
     const text = "De man van An geeft geen hand aan ambetante verwanten"
 
     let count = 0;
-    let i = 0;
+    let index = 0;
 
 
     // indexOf
-    while (i !== -1) {
-        i = text.indexOf("an", i + 1);
+    while (index !== -1) {
+        index = text.indexOf("an", index + 1);
         count++;
     }
 
@@ -17,11 +17,11 @@ const setup = () => {
 
     //lastIndexOf
     count = 1;
-    i = text.lastIndexOf("an");
+    index = text.lastIndexOf("an");
 
-    while (i !== -1) {
+    while (index !== -1) {
         count++;
-        i = text.lastIndexOf("an", i - 1)
+        index = text.lastIndexOf("an", index - 1)
 
     }
 
