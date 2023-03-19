@@ -56,20 +56,20 @@ const valideerFamilienaam = (   ) => {
 const valideerGeboorte = (   ) => {
 
 	let txtGeboorte = document.getElementById("txtGeboorte");
-	let errGeboorte = document.getElementById("error3");
+	let error = document.getElementById("error3");
 
 	let geboorte = txtGeboorte.value.trim();
 	let format = /^\d{4}-\d{2}-\d{2}$/;
 
 	if (geboorte.length === 0) {
 		txtGeboorte.className="invalid";
-		errGeboorte.innerHTML = "verplicht veld";
+		error.innerHTML = "verplicht veld";
 	} else if(!format.test(geboorte)){
 		txtGeboorte.className="invalid";
-		errGeboorte.innerHTML = "formaat is niet jjjj-mm-dd";
+		error.innerHTML = "formaat is niet jjjj-mm-dd";
 	} else {
 		txtGeboorte.className="";
-		errGeboorte.innerHTML = "";
+		error.innerHTML = "";
 	}
 
 }
@@ -77,38 +77,38 @@ const valideerGeboorte = (   ) => {
 
 const valideerMail = (   ) => {
 	let txtMail = document.getElementById("txtMail");
-	let errMail = document.getElementById("error4");
+	let error = document.getElementById("error4");
 
 	let mail = txtMail.value.trim();
 
 	if (mail.length === 0) {
 		txtMail.className="invalid";
-		errMail.innerHTML = "verplicht veld";
+		error.innerHTML = "verplicht veld";
 	} else if(!mail){
 		//controle @ lukt niet en tijd is op.
 	} else {
 		txtMail.className="";
-		errMail.innerHTML = "";
+		error.innerHTML = "";
 	}
 }
 
 
 const valideerKinderen = (   ) => {
 	let txtKinderen = document.getElementById("txtKinderen");
-	let errKinderen = document.getElementById("error5");
+	let error = document.getElementById("error5");
 
 	let kinderen = txtKinderen.value.trim();
 	let format = /^[0-9]{1,2}$/
 
 	if(!format.test(kinderen) || kinderen.substring(0,1) === "-"){
 		txtKinderen.className="invalid";
-		errKinderen.innerHTML = "is geen positief getal";
-	} else if (kinderen.length > 2) {
+		error.innerHTML = "is geen positief getal";
+	} else if (kinderen.length < 99) {
 		txtKinderen.className="invalid";
-		errKinderen.innerHTML = "is te vruchtbaar";
+		error.innerHTML = "is te vruchtbaar";
 	} else {
 		txtKinderen.className="";
-		errKinderen.innerHTML = "";
+		error.innerHTML = "";
 	}
 }
 
