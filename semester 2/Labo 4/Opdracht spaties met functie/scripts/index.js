@@ -8,6 +8,9 @@ const setup = () => {
 const get = () => {
     let inputveld = document.getElementById("inputveld").value;
     press(inputveld);
+
+    let array=[34, 67, 12, 5, 23, "string"];
+
 }
 
 const press = (inputveld) => {

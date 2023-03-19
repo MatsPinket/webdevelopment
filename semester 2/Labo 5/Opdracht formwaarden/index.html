@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>formwaarden</title>
+
+        <link rel="stylesheet" type="text/css" href="styles/index.css">
+    </head>
+
+    <body>
+
+        <form>
+            <div>
+                <label for="isRoker" class="roker">Is roker</label>
+                <input type="checkbox" id="isRoker">
+            </div>
+
+            <br>
+
+            <div>
+                <span class="taal">Moedertaal</span>
+
+                <input type="radio" name="moedertaal" id="nl">
+                <label for="nl">Nederlands</label>
+
+                <input type="radio" name="moedertaal" id="fr">
+                <label for="fr">Frans</label>
+
+                <input type="radio" name="moedertaal" id="en">
+                <label for="en">Engels</label>
+            </div>
+
+            <br>
+
+            <div>
+                <label for="buurland" class="buurland">Favoriete buurland</label>
+                <select name="buurland" id="buurland">
+                    <option value="Nederland">Nederland</option>
+                    <option value="Frankrijk">Frankrijk</option>
+                    <option value="Duitsland">Duitsland</option>
+                </select>
+            </div>
+
+            <br>
+
+            <div>
+                <label for="bestelling" class="bestelling">Bestelling</label>
+                <select name="bestelling" id="bestelling" class="box" multiple="multiple">
+                    <option value="aardappelen">aardappelen</option>
+                    <option value="brood">brood</option>
+                    <option value="melk">melk</option>
+                    <option value="biefstuk">biefstuk</option>
+                    <option value="chips">chips</option>
+                    <option value="krant">krant</option>
+                </select>
+            </div>
+
+            <br>
+
+            <div>
+                <button id="button" type="button">Toon Resultaat</button>
+            </div>
+
+        </form>
+
+        <script type="text/javascript" charset="utf-8" src="scripts/index.js"></script>
+    </body>
+
+</html>
