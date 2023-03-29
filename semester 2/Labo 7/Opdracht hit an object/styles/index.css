@@ -1,0 +1,9 @@
+#playField {
+    height: 600px;
+    width: 800px;
+    border: black solid;
+}
+
+.image {
+    position: absolute;
+}
