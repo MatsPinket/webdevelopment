@@ -1,9 +1,32 @@
-#playField{
+body {
+    background-color: #095959;
 
-    // aanvullen met hoogte en breedte
 }
 
+#playField{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin: auto;
 
-#target {
-    position: absolute;
+    height: 600px;
+    width: 800px;
+}
+
+.image{
+    background-image: url("../images/backside.png");
+    height: 200px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+
+    border: solid #8a6b14 4px;
+}
+
+#button {
+    display: grid;
+    align-items: center;
+    margin: auto;
+    height: 30px;
+    width: 200px;
+    background-color: #ac9dd9;
 }
