@@ -34,37 +34,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/matsp/OneDrive/Desktop/school/semester 2/web development/GitHub/webdevelopment/semester 2/Labo 7&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/matsp/OneDrive/Desktop/school/semester 2/web development/GitHub/webdevelopment/semester 2/Labo 8",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\matsp\OneDrive\Desktop\school\semester 2\web development\GitHub\webdevelopment\semester 2\Labo 8" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\school\semester 2\web development\GitHub\webdevelopment\semester 2\Labo 7" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\school\web development\GitHub\webdevelopment\semester 2\Labo 6\Extra oefening nodes Opdracht 2\images" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\school\web development\GitHub\webdevelopment\semester 2\Labo 5" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\school\web development\GitHub\webdevelopment\semester 2\labo6" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\school\web development\GitHub\webdevelopment\semester 2\Labo 4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matsp\OneDrive\Desktop\school\semester 2\web development\GitHub\webdevelopment\semester 2\Labo 8" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\school\semester 2\web development\GitHub\webdevelopment\semester 2\Labo 7\Opdracht Matching game\images" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\school\web development\GitHub\webdevelopment\semester 2\Labo 6" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\school\web development\GitHub\webdevelopment\semester 2\labo6" />
       <recent name="C:\Users\matsp\OneDrive\Desktop\school\web development\GitHub\webdevelopment\semester 2" />
-      <recent name="C:\Users\matsp\OneDrive\Desktop\school\web development\GitHub\webdevelopment\semester 2\Labo 3" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -158,7 +158,9 @@
       <workItem from="1680092531088" duration="9382000" />
       <workItem from="1680107649070" duration="212000" />
       <workItem from="1680536672778" duration="6563000" />
-      <workItem from="1680546402687" duration="3066000" />
+      <workItem from="1680546402687" duration="3094000" />
+      <workItem from="1681048049078" duration="52000" />
+      <workItem from="1682238227278" duration="3046000" />
     </task>
     <servers />
   </component>
